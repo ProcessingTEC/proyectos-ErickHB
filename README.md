@@ -1,3 +1,2 @@
-# proyectos-ErickHB
-proyectos-ErickHB created by GitHub Classroom
+# Proyectos
 Erick Hernandez Bonilla
