@@ -1,4 +1,5 @@
-//Tomas de Camino Beck
+//Erick Hernandez Bonilla
+//baseed on Tomas de Camino Beck
 
 import processing.serial.*;
 Serial port;
